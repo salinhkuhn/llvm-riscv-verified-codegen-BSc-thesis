@@ -1,6 +1,6 @@
 # RiscvDialect
 
-> ⚠️ **Archived prototype.** This repository is a historical snapshot of the early
+>  Archived prototype: This repository is a historical snapshot of the early
 > experimental work from my BSc thesis. The final code and proofs have been
 > [upstreamed](#upstream-projects) and are maintained there — not here.
 
@@ -15,11 +15,10 @@ that it refines the source program."
 
 ---
 
-## The Write-Up
+## Write-Up
 
 📄 **[thesis-in-paper-shape.pdf](thesis-in-paper-shape.pdf)** — the write-up of my thesis in
-paper format. It is still thesis length and thesis scope; only the presentation follows the
-shape of a paper.
+paper format (non final version and wax to long for a paper, it is "shorter" version of my thesis). Only the presentation follows more the shape of a paper.
 
 ---
 
