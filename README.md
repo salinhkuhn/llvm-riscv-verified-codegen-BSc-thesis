@@ -1,4 +1,4 @@
-# RiscvDialect
+# LLVM - RISCV - LEAN4 Verified Instruction Selection 
 
 >  Archived prototype: This repository is a historical snapshot of the early
 > experimental work from my BSc thesis. The final code and proofs have been
