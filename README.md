@@ -2,12 +2,12 @@
 
 >  Archived prototype: This repository is a historical snapshot of the early
 > experimental work from my BSc thesis. The final code and proofs have been
-> [upstreamed](#upstream-projects) and are maintained there — not here.
+> [upstreamed](#upstream-projects) and are maintained there not in this repo.
 
 Verified code generation for RISC-V, developed in the [Lean 4](https://lean-lang.org/)
 theorem prover and functional programming language.
 
-The thesis explores how instruction selection from LLVM IR to RISC-V can be expressed
+My thesis explores how instruction selection from LLVM IR to RISC-V can be expressed
 as a sequence of *peephole rewrites*, and how each rewrite can be proven correct
 against a mechanized model of the RISC-V ISA in the Lean4 theorem prover.
 
@@ -15,14 +15,14 @@ against a mechanized model of the RISC-V ISA in the Lean4 theorem prover.
 
 ## Write-Up
 
-[thesis-in-paper-shape.pdf](thesis-in-paper-shape.pdf) — the write-up of my thesis in
+[thesis-in-paper-shape.pdf](thesis-in-paper-shape.pdf) the write-up of my thesis in
 paper format (non final version and wax to long for a paper, it is "shorter" version of my thesis). Only the presentation follows more the shape of a paper.
 
 ---
 
 ## Upstream Projects
 
-The production-quality successors to this prototype live in the following repositories:
+The "production-quality successors" to this prototype live in the following repositories:
 
 | Project | Description |
 | --- | --- |
