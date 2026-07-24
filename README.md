@@ -15,7 +15,7 @@ against a mechanized model of the RISC-V ISA in the Lean4 theorem prover.
 
 ## Write-Up
 
-[thesis-in-paper-shape.pdf](thesis-in-paper-shape.pdf) the write-up of my thesis in
+[certified-instruction-selection.pdf](certified-instruction-selection.pdf) the write-up of my thesis in
 paper format (non final version and wax to long for a paper, it is "shorter" version of my thesis). Only the presentation follows more the shape of a paper.
 
 ---
