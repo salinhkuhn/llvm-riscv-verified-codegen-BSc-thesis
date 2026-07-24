@@ -9,9 +9,7 @@ theorem prover and functional programming language.
 
 The thesis explores how instruction selection from LLVM IR to RISC-V can be expressed
 as a sequence of *peephole rewrites*, and how each rewrite can be proven correct
-against a mechanized model of the RISC-V ISA — turning "the compiler produced this
-machine code" into "the compiler produced this machine code, and here is the proof
-that it refines the source program."
+against a mechanized model of the RISC-V ISA in the Lean4 theorem prover.
 
 ---
 
